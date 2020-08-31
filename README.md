@@ -1,5 +1,5 @@
 # XML-Algorithim
-The files in this project read input xml tags and check to see whether they are valid or not and counts the amount of time a tag was input. The algorithm uses stacks and hashtables.
+The files in this project read input xml tags and check to see whether they are valid or not and counts the amount of time a tag was input. The algorithm uses stacks and hashtables. The project has the make file include if you would like to make any changes and recompile.
 
 by running the file part1Main.c you can enter XML tags and it will either validate or invalidate the entered tags. ONLY CHARACTERS CAN BE ENTERED.
 e.g if you enter <a><b></b></a> this is valid. If <a><b></a></b> is entered this is invalid.
